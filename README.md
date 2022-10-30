@@ -7,9 +7,13 @@
 
 - 🤝 I’m looking for help with **PyTerminal**
 
+- 👨‍💻 All of my projects are available at [https://github.com/clarenceparmar](https://github.com/clarenceparmar)
+
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **clarenceparmar325@gmail.com**
+- 📫 How to reach me **GIT.clarence@gmail.com**
+
+- ⚡ Enlightenment **CODE IS DATA AND DATA IS CODE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
