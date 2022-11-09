@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clarenceparmar&label=Profile%20views&color=0e75b6&style=flat" alt="clarenceparmar" /> </p>
 
-- 🔭 I’m currently working on **PyTerminal**
+- 🔭 I’m currently working on **TerCuz**
 
-- 🤝 I’m looking for help with **PyTerminal**
+- 🤝 I’m looking for help with **TerCuz**
 
 - 👨‍💻 All of my projects are available at [https://github.com/clarenceparmar](https://github.com/clarenceparmar)
 
