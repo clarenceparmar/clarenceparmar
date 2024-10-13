@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clarence</h1>
 
-- 🔭 I’m currently working on **TerCuz**
-
 - 👨‍💻 All of my projects are available at [https://github.com/clarenceparmar](https://github.com/clarenceparmar)
 
 - 💬 Ask me about **Python**
